@@ -1,0 +1,14 @@
+C:\Users\erayk\source\repos\GameService\GameService\bin\Debug\net8.0\GameService.exe
+C:\Users\erayk\source\repos\GameService\GameService\bin\Debug\net8.0\GameService.deps.json
+C:\Users\erayk\source\repos\GameService\GameService\bin\Debug\net8.0\GameService.runtimeconfig.json
+C:\Users\erayk\source\repos\GameService\GameService\bin\Debug\net8.0\GameService.dll
+C:\Users\erayk\source\repos\GameService\GameService\bin\Debug\net8.0\GameService.pdb
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\GameService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\GameService.AssemblyInfoInputs.cache
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\GameService.AssemblyInfo.cs
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\GameService.csproj.CoreCompileInputs.cache
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\GameService.dll
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\refint\GameService.dll
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\GameService.pdb
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\GameService.genruntimeconfig.cache
+C:\Users\erayk\source\repos\GameService\GameService\obj\Debug\net8.0\ref\GameService.dll

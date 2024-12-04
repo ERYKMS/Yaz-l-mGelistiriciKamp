@@ -1,0 +1,12 @@
+C:\Users\erayk\source\repos\ReCapProject\Core2\bin\Debug\net8.0\Core2.deps.json
+C:\Users\erayk\source\repos\ReCapProject\Core2\bin\Debug\net8.0\Core2.dll
+C:\Users\erayk\source\repos\ReCapProject\Core2\bin\Debug\net8.0\Core2.pdb
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\Core2.csproj.AssemblyReference.cache
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\Core2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\Core2.AssemblyInfoInputs.cache
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\Core2.AssemblyInfo.cs
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\Core2.csproj.CoreCompileInputs.cache
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\Core2.dll
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\refint\Core2.dll
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\Core2.pdb
+C:\Users\erayk\source\repos\ReCapProject\Core2\obj\Debug\net8.0\ref\Core2.dll

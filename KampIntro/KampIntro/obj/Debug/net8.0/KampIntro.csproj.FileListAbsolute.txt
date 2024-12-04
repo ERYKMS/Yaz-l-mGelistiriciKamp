@@ -1,0 +1,14 @@
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\KampIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\KampIntro.AssemblyInfoInputs.cache
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\KampIntro.AssemblyInfo.cs
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\erayk\source\repos\KampIntro\KampIntro\bin\Debug\net8.0\KampIntro.exe
+C:\Users\erayk\source\repos\KampIntro\KampIntro\bin\Debug\net8.0\KampIntro.deps.json
+C:\Users\erayk\source\repos\KampIntro\KampIntro\bin\Debug\net8.0\KampIntro.runtimeconfig.json
+C:\Users\erayk\source\repos\KampIntro\KampIntro\bin\Debug\net8.0\KampIntro.dll
+C:\Users\erayk\source\repos\KampIntro\KampIntro\bin\Debug\net8.0\KampIntro.pdb
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\KampIntro.dll
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\refint\KampIntro.dll
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\KampIntro.pdb
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\KampIntro.genruntimeconfig.cache
+C:\Users\erayk\source\repos\KampIntro\KampIntro\obj\Debug\net8.0\ref\KampIntro.dll

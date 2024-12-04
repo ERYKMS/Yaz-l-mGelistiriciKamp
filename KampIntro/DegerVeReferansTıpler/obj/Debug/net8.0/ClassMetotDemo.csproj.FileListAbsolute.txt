@@ -1,0 +1,14 @@
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\bin\Debug\net8.0\ClassMetotDemo.exe
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\bin\Debug\net8.0\ClassMetotDemo.deps.json
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\bin\Debug\net8.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\bin\Debug\net8.0\ClassMetotDemo.dll
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\bin\Debug\net8.0\ClassMetotDemo.pdb
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ClassMetotDemo.dll
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\refint\ClassMetotDemo.dll
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ClassMetotDemo.pdb
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\erayk\source\repos\KampIntro\DegerVeReferansTıpler\obj\Debug\net8.0\ref\ClassMetotDemo.dll

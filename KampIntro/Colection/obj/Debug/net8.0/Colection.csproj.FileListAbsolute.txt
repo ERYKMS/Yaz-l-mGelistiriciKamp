@@ -1,0 +1,14 @@
+C:\Users\erayk\source\repos\KampIntro\Colection\bin\Debug\net8.0\Colection.exe
+C:\Users\erayk\source\repos\KampIntro\Colection\bin\Debug\net8.0\Colection.deps.json
+C:\Users\erayk\source\repos\KampIntro\Colection\bin\Debug\net8.0\Colection.runtimeconfig.json
+C:\Users\erayk\source\repos\KampIntro\Colection\bin\Debug\net8.0\Colection.dll
+C:\Users\erayk\source\repos\KampIntro\Colection\bin\Debug\net8.0\Colection.pdb
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\Colection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\Colection.AssemblyInfoInputs.cache
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\Colection.AssemblyInfo.cs
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\Colection.csproj.CoreCompileInputs.cache
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\Colection.dll
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\refint\Colection.dll
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\Colection.pdb
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\Colection.genruntimeconfig.cache
+C:\Users\erayk\source\repos\KampIntro\Colection\obj\Debug\net8.0\ref\Colection.dll
